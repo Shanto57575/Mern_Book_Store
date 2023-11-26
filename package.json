@@ -1,0 +1,21 @@
+{
+	"name": "mern_book_store",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"Backend": "nodemon Backend/index.js",
+		"Frontend": "npm run dev --prefix Frontend",
+		"dev": "concurrently \"npm run Frontend\" \"npm run Backend\""
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"concurrently": "^8.2.2",
+		"cors": "^2.8.5",
+		"dotenv": "^16.3.1",
+		"express": "^4.18.2",
+		"mongodb": "^6.3.0"
+	}
+}
