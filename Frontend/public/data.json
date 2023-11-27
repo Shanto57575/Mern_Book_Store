@@ -1,0 +1,334 @@
+[
+	{
+		"id": 1,
+		"title": "The Night Circus",
+		"author": "Erin Morgenstern",
+		"genre": "Fiction",
+		"publicationDate": "2011-09-13",
+		"description": "A magical and enchanting tale about a mysterious circus that appears only at night, captivating all who enter.",
+		"coverImage": "https://m.media-amazon.com/images/I/81wHpiNObnL._AC_UF1000,1000_QL80_.jpg",
+		"price": 99
+	},
+	{
+		"id": 2,
+		"title": "The Goldfinch",
+		"author": "Donna Tartt",
+		"genre": "Fiction",
+		"publicationDate": "2013-10-22",
+		"description": "A coming-of-age novel that follows a young boy who survives a terrorist attack at an art museum, changing the course of his life.",
+		"coverImage": "https://m.media-amazon.com/images/I/61Gvk5ZlZnL._AC_UF894,1000_QL80_.jpg",
+		"price": 56
+	},
+	{
+		"id": 3,
+		"title": "Circe",
+		"author": "Madeline Miller",
+		"genre": "Fiction",
+		"publicationDate": "2018-04-10",
+		"description": "A reimagining of the life of Circe, the sorceress from Greek mythology, with a focus on her struggles and transformations.",
+		"coverImage": "https://m.media-amazon.com/images/I/91MbELBObkL._AC_UF350,350_QL80_.jpg",
+		"price": 89
+	},
+	{
+		"id": 4,
+		"title": "The Underground Railroad",
+		"author": "Colson Whitehead",
+		"genre": "Fiction",
+		"publicationDate": "2016-08-02",
+		"description": "An alternate history novel that follows a young woman escaping slavery via a literal underground railroad.",
+		"coverImage": "https://m.media-amazon.com/images/I/A1d080MlgaL._AC_UF894,1000_QL80_.jpg",
+		"price": 109
+	},
+	{
+		"id": 5,
+		"title": "A Gentleman in Moscow",
+		"author": "Amor Towles",
+		"genre": "Fiction",
+		"publicationDate": "2016-09-06",
+		"description": "Set in the aftermath of the Russian Revolution, this novel tells the story of a Russian aristocrat under house arrest at a luxury hotel.",
+		"coverImage": "https://m.media-amazon.com/images/I/A1fs-ErenkL._AC_UF1000,1000_QL80_.jpg",
+		"price": 91
+	},
+	{
+		"id": 6,
+		"title": "Sapiens: A Brief History of Humankind",
+		"author": "Yuval Noah Harari",
+		"genre": "Non-Fiction",
+		"publicationDate": "2014-02-10",
+		"description": "An exploration of the history of the human species, from the emergence of Homo sapiens to the present day.",
+		"coverImage": "https://m.media-amazon.com/images/I/716E6dQ4BXL._AC_UF1000,1000_QL80_.jpg",
+		"price": 88
+	},
+	{
+		"id": 7,
+		"title": "Educated",
+		"author": "Tara Westover",
+		"genre": "Non-Fiction",
+		"publicationDate": "2018-02-20",
+		"description": "A memoir about a woman who grows up in a strict and abusive household in rural Idaho but eventually escapes to learn about the wider world through education.",
+		"coverImage": "https://m.media-amazon.com/images/I/81NwOj14S6L._AC_UF1000,1000_QL80_.jpg",
+		"price": 909
+	},
+	{
+		"id": 8,
+		"title": "The Immortal Life of Henrietta Lacks",
+		"author": "Rebecca Skloot",
+		"genre": "Non-Fiction",
+		"publicationDate": "2010-02-02",
+		"description": "A biography that explores the life of Henrietta Lacks and the impact of her cells on medical science.",
+		"coverImage": "https://m.media-amazon.com/images/I/916qRhvRaYL._AC_UF1000,1000_QL80_.jpg",
+		"price": 688
+	},
+	{
+		"id": 9,
+		"title": "Into the Wild",
+		"author": "Jon Krakauer",
+		"genre": "Non-Fiction",
+		"publicationDate": "1996-01-12",
+		"description": "A true story of Christopher McCandless, a young man who gives up everything to live in the Alaskan wilderness.",
+		"coverImage": "https://m.media-amazon.com/images/I/51+0Y4WNJFL.jpg",
+		"price": 189
+	},
+	{
+		"id": 10,
+		"title": "The Wright Brothers",
+		"author": "David McCullough",
+		"genre": "Non-Fiction",
+		"publicationDate": "2015-05-05",
+		"description": "A biography of the inventors Orville and Wilbur Wright, who achieved the first powered, controlled, and sustained flight.",
+		"coverImage": "https://m.media-amazon.com/images/I/81JRkXNRBGL._AC_UF1000,1000_QL80_.jpg",
+		"price": 899
+	},
+
+	{
+		"id": 11,
+		"title": "The Silent Patient",
+		"author": "Alex Michaelides",
+		"genre": "Novel",
+		"publicationDate": "2019-02-05",
+		"description": "A psychological thriller about a woman who shoots her husband and then stops speaking, leading to a gripping exploration of the truth behind the crime.",
+		"coverImage": "https://m.media-amazon.com/images/I/91lslnZ-btL._AC_UF894,1000_QL80_.jpg",
+		"price": 980
+	},
+	{
+		"id": 12,
+		"title": "Where the Crawdads Sing",
+		"author": "Delia Owens",
+		"genre": "Novel",
+		"publicationDate": "2018-08-14",
+		"description": "A novel that combines mystery, romance, and coming-of-age elements, set in the marshes of North Carolina.",
+		"coverImage": "https://m.media-amazon.com/images/I/81HA6TJ5K-L._AC_UF1000,1000_QL80_.jpg",
+		"price": 987
+	},
+	{
+		"id": 13,
+		"title": "The Book Thief",
+		"author": "Markus Zusak",
+		"genre": "Novel",
+		"publicationDate": "2005-03-14",
+		"description": "Set during World War II, this novel is narrated by Death and tells the story of a young girl's relationship with her foster parents, the other residents of their neighborhood, and a Jewish fist-fighter.",
+		"coverImage": "https://m.media-amazon.com/images/I/914h7ms4FXL._AC_UF1000,1000_QL80_.jpg",
+		"price": 200
+	},
+	{
+		"id": 14,
+		"title": "The Alchemist",
+		"author": "Paulo Coelho",
+		"genre": "Novel",
+		"publicationDate": "1988-01-01",
+		"description": "A philosophical novel that follows a young Andalusian shepherd named Santiago on his journey to Egypt.",
+		"coverImage": "https://m.media-amazon.com/images/I/51bVNTqHFlL._AC_UF894,1000_QL80_.jpg",
+		"price": 676
+	},
+	{
+		"id": 15,
+		"title": "The Kite Runner",
+		"author": "Khaled Hosseini",
+		"genre": "Novel",
+		"publicationDate": "2003-05-29",
+		"description": "A novel that explores the friendship between two boys in Afghanistan and the impact of betrayal and redemption.",
+		"coverImage": "https://m.media-amazon.com/images/I/81RUfP0ZOjL._AC_UF1000,1000_QL80_.jpg",
+		"price": 932
+	},
+
+	{
+		"id": 16,
+		"title": "Becoming",
+		"author": "Michelle Obama",
+		"genre": "Autobiography",
+		"publicationDate": "2018-11-13",
+		"description": "The memoir of the former First Lady of the United States, offering insights into her life, experiences, and journey.",
+		"coverImage": "https://m.media-amazon.com/images/I/81dDwAzxtrL._AC_UF1000,1000_QL80_.jpg",
+		"price": 28
+	},
+	{
+		"id": 17,
+		"title": "The Glass Castle",
+		"author": "Jeanette Walls",
+		"genre": "Autobiography",
+		"publicationDate": "2005-01-17",
+		"description": "A memoir that recounts the author's unconventional and often difficult upbringing with her dysfunctional family.",
+		"coverImage": "https://m.media-amazon.com/images/I/71td5GDUZML._AC_UF1000,1000_QL80_.jpg",
+		"price": 85
+	},
+	{
+		"id": 18,
+		"title": "Long Walk to Freedom",
+		"author": "Nelson Mandela",
+		"genre": "Autobiography",
+		"publicationDate": "1994-10-01",
+		"description": "The autobiography of Nelson Mandela, detailing his life, imprisonment, and role in the struggle against apartheid in South Africa.",
+		"coverImage": "https://m.media-amazon.com/images/I/619-C+0etKL._AC_UF1000,1000_QL80_.jpg",
+		"price": 400
+	},
+	{
+		"id": 19,
+		"title": "Steve Jobs",
+		"author": "Walter Isaacson",
+		"genre": "Autobiography",
+		"publicationDate": "2011-10-24",
+		"description": "A biography of Apple co-founder Steve Jobs, exploring his life, career, and impact on the technology industry.",
+		"coverImage": "https://m.media-amazon.com/images/I/61d7gLTQ4bL._AC_UF1000,1000_QL80_.jpg",
+		"price": 555
+	},
+	{
+		"id": 20,
+		"title": "The Diary of a Young Girl",
+		"author": "Anne Frank",
+		"genre": "Autobiography",
+		"publicationDate": "1947-06-25",
+		"description": "The diary of Anne Frank, a Jewish girl hiding with her family during the Holocaust, providing a poignant account of her experiences.",
+		"coverImage": "https://m.media-amazon.com/images/I/51Eyjz65gyL._AC_UF1000,1000_QL80_.jpg",
+		"price": 765
+	},
+	{
+		"id": 21,
+		"title": "Gone Girl",
+		"author": "Gillian Flynn",
+		"genre": "Mystery",
+		"publicationDate": "2012-05-24",
+		"description": "A psychological thriller about a husband and wife whose marriage takes a dark turn when the wife goes missing.",
+		"coverImage": "https://m.media-amazon.com/images/I/71FZo7-3BnL._AC_UF1000,1000_QL80_.jpg",
+		"price": 777
+	},
+	{
+		"id": 22,
+		"title": "The Girl with the Dragon Tattoo",
+		"author": "Stieg Larsson",
+		"genre": "Mystery",
+		"publicationDate": "2005-08-16",
+		"description": "A gripping mystery novel involving a journalist and a computer hacker as they investigate a wealthy family's dark secrets.",
+		"coverImage": "https://m.media-amazon.com/images/I/81UhKOBDrCL._AC_UF1000,1000_QL80_.jpg",
+		"price": 888
+	},
+	{
+		"id": 23,
+		"title": "Big Little Lies",
+		"author": "Liane Moriarty",
+		"genre": "Mystery",
+		"publicationDate": "2014-07-29",
+		"description": "A mystery novel that explores the lives of three women whose seemingly perfect lives unravel to reveal dark secrets.",
+		"coverImage": "https://m.media-amazon.com/images/I/51QspB2k1SL.jpg",
+		"price": 105
+	},
+	{
+		"id": 24,
+		"title": "The Da Vinci Code",
+		"author": "Dan Brown",
+		"genre": "Mystery",
+		"publicationDate": "2003-03-18",
+		"description": "A gripping mystery that follows a symbologist and a cryptologist as they unravel a conspiracy that spans centuries.",
+		"coverImage": "https://m.media-amazon.com/images/I/91Q5dCjc2KL._AC_UF1000,1000_QL80_.jpg",
+		"price": 399
+	},
+	{
+		"id": 25,
+		"title": "The Hound of the Baskervilles",
+		"author": "Arthur Conan Doyle",
+		"genre": "Mystery",
+		"publicationDate": "1902-08-01",
+		"description": "A classic Sherlock Holmes mystery that follows the detective as he investigates the supernatural death of Sir Charles Baskerville.",
+		"coverImage": "https://m.media-amazon.com/images/I/41ZZLo1RBoL.jpg",
+		"price": 445
+	},
+	{
+		"id": 26,
+		"title": "The Reversal",
+		"author": "Michael Connelly",
+		"genre": "Mystery",
+		"publicationDate": "2010-10-05",
+		"description": "A legal thriller featuring defense attorney Mickey Haller as he takes on a high-profile case with political implications.",
+		"coverImage": "https://m.media-amazon.com/images/I/51HyTI1KDRL._AC_UF1000,1000_QL80_.jpg",
+		"price": 999
+	},
+	{
+		"id": 27,
+		"title": "The Girl on the Train",
+		"author": "Paula Hawkins",
+		"genre": "Mystery",
+		"publicationDate": "2015-01-13",
+		"description": "A psychological thriller that follows the intertwined lives of three women, exploring themes of deception, obsession, and manipulation.",
+		"coverImage": "https://m.media-amazon.com/images/I/71ErsKpwmrS._AC_UF1000,1000_QL80_.jpg",
+		"price": 299
+	},
+	{
+		"id": 28,
+		"title": "In the Woods",
+		"author": "Tana French",
+		"genre": "Mystery",
+		"publicationDate": "2007-05-17",
+		"description": "The first book in the Dublin Murder Squad series, featuring detective Rob Ryan investigating a young girl's murder in a small Irish town.",
+		"coverImage": "https://m.media-amazon.com/images/I/51GJ6-6fm9L._AC_UF1000,1000_QL80_.jpg",
+		"price": 380
+	},
+	{
+		"id": 29,
+		"title": "When Breath Becomes Air",
+		"author": "Paul Kalanithi",
+		"genre": "Autobiography",
+		"publicationDate": "2016-01-12",
+		"description": "A poignant memoir by a neurosurgeon diagnosed with terminal cancer, reflecting on life, death, and the meaning of existence.",
+		"coverImage": "https://m.media-amazon.com/images/I/91iZ2ZQduBL._AC_UF1000,1000_QL80_.jpg",
+		"price": 599
+	},
+	{
+		"id": 30,
+		"title": "The Nightingale",
+		"author": "Kristin Hannah",
+		"genre": "Novel",
+		"publicationDate": "2015-02-03",
+		"description": "A historical novel set in France during World War II, focusing on the lives of two sisters and their experiences during the conflict.",
+		"coverImage": "https://m.media-amazon.com/images/I/914dNZ+lLjL._AC_UF1000,1000_QL80_.jpg",
+		"price": 79
+	},
+	{
+		"id": 31,
+		"title": "Eleanor Oliphant Is Completely Fine",
+		"author": "Gail Honeyman",
+		"genre": "Novel",
+		"publicationDate": "2017-05-09",
+		"description": "A novel about a socially awkward woman named Eleanor Oliphant and her journey towards self-discovery and connection with others.",
+		"coverImage": "https://m.media-amazon.com/images/I/61GCX8Zj1aL._AC_UF894,1000_QL80_.jpg",
+		"price": 188
+	},
+	{
+		"id": 32,
+		"title": "Little Fires Everywhere",
+		"author": "Celeste Ng",
+		"genre": "Novel",
+		"publicationDate": "2017-09-12",
+		"description": "A novel that explores the complexities of motherhood, identity, and race relations in a suburban community.",
+		"coverImage": "https://m.media-amazon.com/images/I/91twTG-CQ8L._AC_UF1000,1000_QL80_.jpg",
+		"price": 450
+	},
+	{
+		"id": 33,
+		"title": "The Tattooist of Auschwitz",
+		"author": "Heather Morris",
+		"genre": "Novel",
+		"publicationDate": "2018-09-04",
+		"description": "A novel based on the true story of a Holocaust survivor who becomes the tattooist at the Auschwitz-Birkenau concentration camp.",
+		"coverImage": "https://m.media-amazon.com/images/I/71xUrMFJsTL._AC_UF1000,1000_QL80_.jpg",
+		"price": 697
+	}
+]
