@@ -7,23 +7,22 @@ import GOT from "../../../assets/got.png";
 import HARRY from "../../../assets/harry.png";
 import LORD from "../../../assets/boook.png";
 import NARNIA from "../../../assets/naria.png";
+import flowerBook from "../../../assets/stylishBook.png";
 
 const Banner = () => {
 	const divStyle = {
 		backgroundImage:
 			'url("https://t4.ftcdn.net/jpg/04/16/08/83/360_F_416088383_VYKbwdq0S4vqGwQJkZ8ZIRNDWITvjvP4.jpg")',
-		backgroundSize: "cover",
 		width: "100%",
-		height: "650px",
 	};
 
 	return (
 		<div
 			style={divStyle}
-			className="md:pt-0 md:px-0 pt-28 px-3 md:flex items-center justify-between font-bold font-serif"
+			className="md:pt-0 md:px-0 pt-28 px-3 md:flex items-center justify-between font-bold font-serif bg-cover bg-center w-full h-[800px] md:h-[650px]"
 		>
 			<div className="w-full px-5 md:w-1/2 mx-auto space-y-5 text-center md:text-start">
-				<h1 className="text-2xl md:text-4xl lg:text-6xl font-bold font-serif text-gray-700 bg-gradient-to-r from-yellow-900 via-green-900 to-sky-800 inline-block text-transparent bg-clip-text">
+				<h1 className="text-2xl md:text-4xl lg:text-6xl font-bold font-serif tracking-wide leading-loose text-gray-700 bg-gradient-to-r from-yellow-900 via-green-900 to-sky-800 inline-block text-transparent bg-clip-text">
 					Swipe into the Magic of Reading with Bookswipe
 				</h1>
 				<p className="text-gray-700 hidden md:block text-justify">
@@ -45,8 +44,6 @@ const Banner = () => {
 						shadowOffset: 20,
 						shadowScale: 0.9,
 					}}
-					loop={true}
-					autoplay={true}
 					pagination={true}
 					modules={[EffectCube, Pagination]}
 					className="mySwiper"
@@ -59,6 +56,9 @@ const Banner = () => {
 					</SwiperSlide>
 					<SwiperSlide title="slide">
 						<img className="w-full h-80 md:h-96 mx-auto" src={NARNIA} />
+					</SwiperSlide>
+					<SwiperSlide title="slide">
+						<img className="w-full h-80 md:h-96 mx-auto" src={flowerBook} />
 					</SwiperSlide>
 					<SwiperSlide title="slide">
 						<img className="w-full h-80 md:h-96 mx-auto" src={LORD} />

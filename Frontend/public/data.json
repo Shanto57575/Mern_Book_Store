@@ -1,5 +1,6 @@
 [
 	{
+		"_id": "656347840e0a20f1d4a13d98",
 		"id": 1,
 		"title": "The Night Circus",
 		"author": "Erin Morgenstern",
@@ -7,9 +8,11 @@
 		"publicationDate": "2011-09-13",
 		"description": "A magical and enchanting tale about a mysterious circus that appears only at night, captivating all who enter.",
 		"coverImage": "https://m.media-amazon.com/images/I/81wHpiNObnL._AC_UF1000,1000_QL80_.jpg",
-		"price": 99
+		"price": 99,
+		"rating": 4.9
 	},
 	{
+		"_id": "656347840e0a20f1d4a13d99",
 		"id": 2,
 		"title": "The Goldfinch",
 		"author": "Donna Tartt",
@@ -17,9 +20,11 @@
 		"publicationDate": "2013-10-22",
 		"description": "A coming-of-age novel that follows a young boy who survives a terrorist attack at an art museum, changing the course of his life.",
 		"coverImage": "https://m.media-amazon.com/images/I/61Gvk5ZlZnL._AC_UF894,1000_QL80_.jpg",
-		"price": 56
+		"price": 56,
+		"rating": 4.22
 	},
 	{
+		"_id": "656347840e0a20f1d4a13d9a",
 		"id": 3,
 		"title": "Circe",
 		"author": "Madeline Miller",
@@ -27,9 +32,11 @@
 		"publicationDate": "2018-04-10",
 		"description": "A reimagining of the life of Circe, the sorceress from Greek mythology, with a focus on her struggles and transformations.",
 		"coverImage": "https://m.media-amazon.com/images/I/91MbELBObkL._AC_UF350,350_QL80_.jpg",
-		"price": 89
+		"price": 89,
+		"rating": 3.97
 	},
 	{
+		"_id": "656347840e0a20f1d4a13d9b",
 		"id": 4,
 		"title": "The Underground Railroad",
 		"author": "Colson Whitehead",
@@ -37,9 +44,11 @@
 		"publicationDate": "2016-08-02",
 		"description": "An alternate history novel that follows a young woman escaping slavery via a literal underground railroad.",
 		"coverImage": "https://m.media-amazon.com/images/I/A1d080MlgaL._AC_UF894,1000_QL80_.jpg",
-		"price": 109
+		"price": 109,
+		"rating": 2.8
 	},
 	{
+		"_id": "656347840e0a20f1d4a13d9c",
 		"id": 5,
 		"title": "A Gentleman in Moscow",
 		"author": "Amor Towles",
@@ -47,9 +56,11 @@
 		"publicationDate": "2016-09-06",
 		"description": "Set in the aftermath of the Russian Revolution, this novel tells the story of a Russian aristocrat under house arrest at a luxury hotel.",
 		"coverImage": "https://m.media-amazon.com/images/I/A1fs-ErenkL._AC_UF1000,1000_QL80_.jpg",
-		"price": 91
+		"price": 91,
+		"rating": 3.5
 	},
 	{
+		"_id": "656347840e0a20f1d4a13d9d",
 		"id": 6,
 		"title": "Sapiens: A Brief History of Humankind",
 		"author": "Yuval Noah Harari",
@@ -57,9 +68,11 @@
 		"publicationDate": "2014-02-10",
 		"description": "An exploration of the history of the human species, from the emergence of Homo sapiens to the present day.",
 		"coverImage": "https://m.media-amazon.com/images/I/716E6dQ4BXL._AC_UF1000,1000_QL80_.jpg",
-		"price": 88
+		"price": 88,
+		"rating": 4.78
 	},
 	{
+		"_id": "656347840e0a20f1d4a13d9e",
 		"id": 7,
 		"title": "Educated",
 		"author": "Tara Westover",
@@ -67,9 +80,11 @@
 		"publicationDate": "2018-02-20",
 		"description": "A memoir about a woman who grows up in a strict and abusive household in rural Idaho but eventually escapes to learn about the wider world through education.",
 		"coverImage": "https://m.media-amazon.com/images/I/81NwOj14S6L._AC_UF1000,1000_QL80_.jpg",
-		"price": 909
+		"price": 909,
+		"rating": 4.97
 	},
 	{
+		"_id": "656347840e0a20f1d4a13d9f",
 		"id": 8,
 		"title": "The Immortal Life of Henrietta Lacks",
 		"author": "Rebecca Skloot",
@@ -77,9 +92,11 @@
 		"publicationDate": "2010-02-02",
 		"description": "A biography that explores the life of Henrietta Lacks and the impact of her cells on medical science.",
 		"coverImage": "https://m.media-amazon.com/images/I/916qRhvRaYL._AC_UF1000,1000_QL80_.jpg",
-		"price": 688
+		"price": 688,
+		"rating": 4.67
 	},
 	{
+		"_id": "656347840e0a20f1d4a13da0",
 		"id": 9,
 		"title": "Into the Wild",
 		"author": "Jon Krakauer",
@@ -87,9 +104,11 @@
 		"publicationDate": "1996-01-12",
 		"description": "A true story of Christopher McCandless, a young man who gives up everything to live in the Alaskan wilderness.",
 		"coverImage": "https://m.media-amazon.com/images/I/51+0Y4WNJFL.jpg",
-		"price": 189
+		"price": 189,
+		"rating": 4.0
 	},
 	{
+		"_id": "656347840e0a20f1d4a13da1",
 		"id": 10,
 		"title": "The Wright Brothers",
 		"author": "David McCullough",
@@ -97,10 +116,11 @@
 		"publicationDate": "2015-05-05",
 		"description": "A biography of the inventors Orville and Wilbur Wright, who achieved the first powered, controlled, and sustained flight.",
 		"coverImage": "https://m.media-amazon.com/images/I/81JRkXNRBGL._AC_UF1000,1000_QL80_.jpg",
-		"price": 899
+		"price": 899,
+		"rating": 3.1
 	},
-
 	{
+		"_id": "656347840e0a20f1d4a13da2",
 		"id": 11,
 		"title": "The Silent Patient",
 		"author": "Alex Michaelides",
@@ -108,9 +128,11 @@
 		"publicationDate": "2019-02-05",
 		"description": "A psychological thriller about a woman who shoots her husband and then stops speaking, leading to a gripping exploration of the truth behind the crime.",
 		"coverImage": "https://m.media-amazon.com/images/I/91lslnZ-btL._AC_UF894,1000_QL80_.jpg",
-		"price": 980
+		"price": 980,
+		"rating": 3.33
 	},
 	{
+		"_id": "656347840e0a20f1d4a13da3",
 		"id": 12,
 		"title": "Where the Crawdads Sing",
 		"author": "Delia Owens",
@@ -118,9 +140,11 @@
 		"publicationDate": "2018-08-14",
 		"description": "A novel that combines mystery, romance, and coming-of-age elements, set in the marshes of North Carolina.",
 		"coverImage": "https://m.media-amazon.com/images/I/81HA6TJ5K-L._AC_UF1000,1000_QL80_.jpg",
-		"price": 987
+		"price": 987,
+		"rating": 2.3
 	},
 	{
+		"_id": "656347840e0a20f1d4a13da4",
 		"id": 13,
 		"title": "The Book Thief",
 		"author": "Markus Zusak",
@@ -128,9 +152,11 @@
 		"publicationDate": "2005-03-14",
 		"description": "Set during World War II, this novel is narrated by Death and tells the story of a young girl's relationship with her foster parents, the other residents of their neighborhood, and a Jewish fist-fighter.",
 		"coverImage": "https://m.media-amazon.com/images/I/914h7ms4FXL._AC_UF1000,1000_QL80_.jpg",
-		"price": 200
+		"price": 200,
+		"rating": 5.0
 	},
 	{
+		"_id": "656347840e0a20f1d4a13da5",
 		"id": 14,
 		"title": "The Alchemist",
 		"author": "Paulo Coelho",
@@ -138,9 +164,11 @@
 		"publicationDate": "1988-01-01",
 		"description": "A philosophical novel that follows a young Andalusian shepherd named Santiago on his journey to Egypt.",
 		"coverImage": "https://m.media-amazon.com/images/I/51bVNTqHFlL._AC_UF894,1000_QL80_.jpg",
-		"price": 676
+		"price": 676,
+		"rating": 4.98
 	},
 	{
+		"_id": "656347840e0a20f1d4a13da6",
 		"id": 15,
 		"title": "The Kite Runner",
 		"author": "Khaled Hosseini",
@@ -148,10 +176,11 @@
 		"publicationDate": "2003-05-29",
 		"description": "A novel that explores the friendship between two boys in Afghanistan and the impact of betrayal and redemption.",
 		"coverImage": "https://m.media-amazon.com/images/I/81RUfP0ZOjL._AC_UF1000,1000_QL80_.jpg",
-		"price": 932
+		"price": 932,
+		"rating": 4.05
 	},
-
 	{
+		"_id": "656347840e0a20f1d4a13da7",
 		"id": 16,
 		"title": "Becoming",
 		"author": "Michelle Obama",
@@ -159,9 +188,11 @@
 		"publicationDate": "2018-11-13",
 		"description": "The memoir of the former First Lady of the United States, offering insights into her life, experiences, and journey.",
 		"coverImage": "https://m.media-amazon.com/images/I/81dDwAzxtrL._AC_UF1000,1000_QL80_.jpg",
-		"price": 28
+		"price": 28,
+		"rating": 4.09
 	},
 	{
+		"_id": "656347840e0a20f1d4a13da8",
 		"id": 17,
 		"title": "The Glass Castle",
 		"author": "Jeanette Walls",
@@ -169,9 +200,11 @@
 		"publicationDate": "2005-01-17",
 		"description": "A memoir that recounts the author's unconventional and often difficult upbringing with her dysfunctional family.",
 		"coverImage": "https://m.media-amazon.com/images/I/71td5GDUZML._AC_UF1000,1000_QL80_.jpg",
-		"price": 85
+		"price": 85,
+		"rating": 3.98
 	},
 	{
+		"_id": "656347840e0a20f1d4a13da9",
 		"id": 18,
 		"title": "Long Walk to Freedom",
 		"author": "Nelson Mandela",
@@ -179,9 +212,11 @@
 		"publicationDate": "1994-10-01",
 		"description": "The autobiography of Nelson Mandela, detailing his life, imprisonment, and role in the struggle against apartheid in South Africa.",
 		"coverImage": "https://m.media-amazon.com/images/I/619-C+0etKL._AC_UF1000,1000_QL80_.jpg",
-		"price": 400
+		"price": 400,
+		"rating": 5.0
 	},
 	{
+		"_id": "656347840e0a20f1d4a13daa",
 		"id": 19,
 		"title": "Steve Jobs",
 		"author": "Walter Isaacson",
@@ -189,9 +224,11 @@
 		"publicationDate": "2011-10-24",
 		"description": "A biography of Apple co-founder Steve Jobs, exploring his life, career, and impact on the technology industry.",
 		"coverImage": "https://m.media-amazon.com/images/I/61d7gLTQ4bL._AC_UF1000,1000_QL80_.jpg",
-		"price": 555
+		"price": 555,
+		"rating": 3.0
 	},
 	{
+		"_id": "656347840e0a20f1d4a13dab",
 		"id": 20,
 		"title": "The Diary of a Young Girl",
 		"author": "Anne Frank",
@@ -199,9 +236,11 @@
 		"publicationDate": "1947-06-25",
 		"description": "The diary of Anne Frank, a Jewish girl hiding with her family during the Holocaust, providing a poignant account of her experiences.",
 		"coverImage": "https://m.media-amazon.com/images/I/51Eyjz65gyL._AC_UF1000,1000_QL80_.jpg",
-		"price": 765
+		"price": 765,
+		"rating": 2.99
 	},
 	{
+		"_id": "656347840e0a20f1d4a13dac",
 		"id": 21,
 		"title": "Gone Girl",
 		"author": "Gillian Flynn",
@@ -209,9 +248,11 @@
 		"publicationDate": "2012-05-24",
 		"description": "A psychological thriller about a husband and wife whose marriage takes a dark turn when the wife goes missing.",
 		"coverImage": "https://m.media-amazon.com/images/I/71FZo7-3BnL._AC_UF1000,1000_QL80_.jpg",
-		"price": 777
+		"price": 777,
+		"rating": 3.99
 	},
 	{
+		"_id": "656347840e0a20f1d4a13dad",
 		"id": 22,
 		"title": "The Girl with the Dragon Tattoo",
 		"author": "Stieg Larsson",
@@ -219,9 +260,11 @@
 		"publicationDate": "2005-08-16",
 		"description": "A gripping mystery novel involving a journalist and a computer hacker as they investigate a wealthy family's dark secrets.",
 		"coverImage": "https://m.media-amazon.com/images/I/81UhKOBDrCL._AC_UF1000,1000_QL80_.jpg",
-		"price": 888
+		"price": 888,
+		"rating": 4.92
 	},
 	{
+		"_id": "656347840e0a20f1d4a13dae",
 		"id": 23,
 		"title": "Big Little Lies",
 		"author": "Liane Moriarty",
@@ -229,9 +272,11 @@
 		"publicationDate": "2014-07-29",
 		"description": "A mystery novel that explores the lives of three women whose seemingly perfect lives unravel to reveal dark secrets.",
 		"coverImage": "https://m.media-amazon.com/images/I/51QspB2k1SL.jpg",
-		"price": 105
+		"price": 105,
+		"rating": 4.94
 	},
 	{
+		"_id": "656347840e0a20f1d4a13daf",
 		"id": 24,
 		"title": "The Da Vinci Code",
 		"author": "Dan Brown",
@@ -239,9 +284,11 @@
 		"publicationDate": "2003-03-18",
 		"description": "A gripping mystery that follows a symbologist and a cryptologist as they unravel a conspiracy that spans centuries.",
 		"coverImage": "https://m.media-amazon.com/images/I/91Q5dCjc2KL._AC_UF1000,1000_QL80_.jpg",
-		"price": 399
+		"price": 399,
+		"rating": 3.96
 	},
 	{
+		"_id": "656347840e0a20f1d4a13db0",
 		"id": 25,
 		"title": "The Hound of the Baskervilles",
 		"author": "Arthur Conan Doyle",
@@ -249,9 +296,11 @@
 		"publicationDate": "1902-08-01",
 		"description": "A classic Sherlock Holmes mystery that follows the detective as he investigates the supernatural death of Sir Charles Baskerville.",
 		"coverImage": "https://m.media-amazon.com/images/I/41ZZLo1RBoL.jpg",
-		"price": 445
+		"price": 445,
+		"rating": 4.04
 	},
 	{
+		"_id": "656347840e0a20f1d4a13db1",
 		"id": 26,
 		"title": "The Reversal",
 		"author": "Michael Connelly",
@@ -259,9 +308,11 @@
 		"publicationDate": "2010-10-05",
 		"description": "A legal thriller featuring defense attorney Mickey Haller as he takes on a high-profile case with political implications.",
 		"coverImage": "https://m.media-amazon.com/images/I/51HyTI1KDRL._AC_UF1000,1000_QL80_.jpg",
-		"price": 999
+		"price": 999,
+		"rating": 4.33
 	},
 	{
+		"_id": "656347840e0a20f1d4a13db2",
 		"id": 27,
 		"title": "The Girl on the Train",
 		"author": "Paula Hawkins",
@@ -269,9 +320,11 @@
 		"publicationDate": "2015-01-13",
 		"description": "A psychological thriller that follows the intertwined lives of three women, exploring themes of deception, obsession, and manipulation.",
 		"coverImage": "https://m.media-amazon.com/images/I/71ErsKpwmrS._AC_UF1000,1000_QL80_.jpg",
-		"price": 299
+		"price": 299,
+		"rating": 4.4
 	},
 	{
+		"_id": "656347840e0a20f1d4a13db3",
 		"id": 28,
 		"title": "In the Woods",
 		"author": "Tana French",
@@ -279,9 +332,11 @@
 		"publicationDate": "2007-05-17",
 		"description": "The first book in the Dublin Murder Squad series, featuring detective Rob Ryan investigating a young girl's murder in a small Irish town.",
 		"coverImage": "https://m.media-amazon.com/images/I/51GJ6-6fm9L._AC_UF1000,1000_QL80_.jpg",
-		"price": 380
+		"price": 380,
+		"rating": 4.9
 	},
 	{
+		"_id": "656347840e0a20f1d4a13db4",
 		"id": 29,
 		"title": "When Breath Becomes Air",
 		"author": "Paul Kalanithi",
@@ -289,9 +344,11 @@
 		"publicationDate": "2016-01-12",
 		"description": "A poignant memoir by a neurosurgeon diagnosed with terminal cancer, reflecting on life, death, and the meaning of existence.",
 		"coverImage": "https://m.media-amazon.com/images/I/91iZ2ZQduBL._AC_UF1000,1000_QL80_.jpg",
-		"price": 599
+		"price": 599,
+		"rating": 4.23
 	},
 	{
+		"_id": "656347840e0a20f1d4a13db5",
 		"id": 30,
 		"title": "The Nightingale",
 		"author": "Kristin Hannah",
@@ -299,9 +356,11 @@
 		"publicationDate": "2015-02-03",
 		"description": "A historical novel set in France during World War II, focusing on the lives of two sisters and their experiences during the conflict.",
 		"coverImage": "https://m.media-amazon.com/images/I/914dNZ+lLjL._AC_UF1000,1000_QL80_.jpg",
-		"price": 79
+		"price": 79,
+		"rating": 5
 	},
 	{
+		"_id": "656347840e0a20f1d4a13db6",
 		"id": 31,
 		"title": "Eleanor Oliphant Is Completely Fine",
 		"author": "Gail Honeyman",
@@ -309,9 +368,11 @@
 		"publicationDate": "2017-05-09",
 		"description": "A novel about a socially awkward woman named Eleanor Oliphant and her journey towards self-discovery and connection with others.",
 		"coverImage": "https://m.media-amazon.com/images/I/61GCX8Zj1aL._AC_UF894,1000_QL80_.jpg",
-		"price": 188
+		"price": 188,
+		"rating": 5.0
 	},
 	{
+		"_id": "656347840e0a20f1d4a13db7",
 		"id": 32,
 		"title": "Little Fires Everywhere",
 		"author": "Celeste Ng",
@@ -319,9 +380,11 @@
 		"publicationDate": "2017-09-12",
 		"description": "A novel that explores the complexities of motherhood, identity, and race relations in a suburban community.",
 		"coverImage": "https://m.media-amazon.com/images/I/91twTG-CQ8L._AC_UF1000,1000_QL80_.jpg",
-		"price": 450
+		"price": 450,
+		"rating": 2.99
 	},
 	{
+		"_id": "656347840e0a20f1d4a13db8",
 		"id": 33,
 		"title": "The Tattooist of Auschwitz",
 		"author": "Heather Morris",
@@ -329,6 +392,7 @@
 		"publicationDate": "2018-09-04",
 		"description": "A novel based on the true story of a Holocaust survivor who becomes the tattooist at the Auschwitz-Birkenau concentration camp.",
 		"coverImage": "https://m.media-amazon.com/images/I/71xUrMFJsTL._AC_UF1000,1000_QL80_.jpg",
-		"price": 697
+		"price": 697,
+		"rating": 3.09
 	}
 ]

@@ -2,7 +2,7 @@ const express = require('express')
 const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
 require('dotenv').config();
 const app = express()
-const port = process.env.PORT || 3333;
+const port = process.env.PORT || 5000;
 const cors = require('cors');
 
 //middlewares
@@ -34,10 +34,17 @@ async function run() {
         })
 
         // Get All the books from thi API
-        // app.get('/all-books', async (req, res) => {
-        //     const result = await booksCollection.find().toArray();
-        //     res.send(result);
-        // })
+        app.get('/all-books', async (req, res) => {
+            const result = await booksCollection.find().toArray();
+            res.send(result);
+        })
+
+        app.get('/book/:id', async (req, res) => {
+            const id = req.params.id;
+            const query = { _id: id };
+            const result = await booksCollection.findOne(query);
+            res.send(result);
+        })
 
 
         // Update Book Details
@@ -48,7 +55,8 @@ async function run() {
 
             const updateDoc = {
                 $set: {
-                    ...updateBookDetails
+                    ...updateBookDetails,
+                    rating: Math.random() * 5
                 }
             }
             const result = await booksCollection.updateOne(filter, updateDoc);
@@ -76,26 +84,29 @@ async function run() {
         //     res.send(result);
         // })
         // search by title
-        app.get('/all-books/:title', async (req, res) => {
-            const title = req.params.title;
-            const result = await booksCollection.find({ title: title }).toArray();
-            res.send(result);
-        })
 
-        app.get('/all-books', async (req, res) => {
-            let query = {};
-            if (req.query?.genre) {
-                query = { genre: req.query?.genre };
-            }
-            const result = await booksCollection.find(query).toArray();
-            res.send(result);
-        })
+        // app.get('/all-books/:title', async (req, res) => {
+        //     const title = req.params.title;
+        //     const result = await booksCollection.find({ title: title }).toArray();
+        //     res.send(result);
+        // })
 
+        // app.get('/all-books', async (req, res) => {
+        //     let query = {};
+        //     if (req.query?.genre) {
+        //         query = { genre: req.query?.genre };
+        //     }
+        //     const result = await booksCollection.find(query).toArray();
+        //     res.send(result);
+        // })
 
         await client.db("admin").command({ ping: 1 });
+
         console.log("Pinged your deployment. You successfully connected to MongoDB!");
+
     } finally { }
 }
+
 run().catch(console.dir);
 
 app.get('/', (req, res) => {

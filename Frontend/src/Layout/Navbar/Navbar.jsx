@@ -36,7 +36,7 @@ const Navbar = () => {
 	];
 
 	return (
-		<header className="w-full bg-transparent fixed top-0 left-0 right-0 transition-all ease-in duration-1000">
+		<header className="z-10 w-full bg-transparent fixed top-0 left-0 right-0 transition-all ease-in duration-1000">
 			<nav
 				className={`px-14 ${
 					isSticky
