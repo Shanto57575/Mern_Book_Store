@@ -9,7 +9,7 @@ const Services = () => {
 			<div className="space-y-3 font-serif font-medium">
 				<LiaShippingFastSolid
 					size={50}
-					className="text-emerald-600 w-full mx-auto cursor-pointer transform transition-transform hover:translate-x-5 hover:scale-110"
+					className="text-stone-700 w-full mx-auto cursor-pointer transform transition-transform hover:translate-x-5 hover:scale-110"
 				/>
 				<h1 className="font-black text-xl">Free Standard Delivery</h1>
 				<p className="w-full md:w-2/3 mx-auto">
@@ -19,7 +19,7 @@ const Services = () => {
 			<div className="space-y-3 font-serif font-medium">
 				<FaArrowsRotate
 					size={50}
-					className="text-emerald-600 w-full mx-auto hover:animate-spin cursor-pointer"
+					className="text-stone-700 w-full mx-auto hover:animate-spin cursor-pointer"
 				/>
 				<h1 className="font-black text-xl">Free Easy Returns</h1>
 				<p className="w-full md:w-2/3 mx-auto">
@@ -29,7 +29,7 @@ const Services = () => {
 			<div className="space-y-3 font-serif font-medium">
 				<FaBookOpen
 					size={50}
-					className="text-emerald-600 w-full mx-auto cursor-pointer transform transition-transform hover:translate-x-5 hover:scale-110"
+					className="text-stone-700 w-full mx-auto cursor-pointer transform transition-transform hover:translate-x-5 hover:scale-110"
 				/>
 				<h1 className="font-black text-xl">6 Million Books Available</h1>
 				<p className="w-full md:w-2/3 mx-auto">
@@ -40,7 +40,7 @@ const Services = () => {
 			<div className="space-y-3 font-serif font-medium">
 				<BiSolidDonateHeart
 					size={50}
-					className="text-emerald-600 w-full mx-auto cursor-pointer transform transition-transform hover:translate-x-5 hover:scale-110"
+					className="text-stone-700 w-full mx-auto cursor-pointer transform transition-transform hover:translate-x-5 hover:scale-110"
 				/>
 				<h1 className="font-black text-xl">Special Discounts</h1>
 				<p className="w-full md:w-2/3 mx-auto">

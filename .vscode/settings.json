@@ -1,6 +1,11 @@
 {
     "cSpell.words": [
+        "APIKEY",
+        "AUTHDOMAIN",
         "coverflow",
+        "MESSAGINGSENDERID",
+        "PROJECTID",
+        "STORAGEBUCKET",
         "Swiper"
     ]
 }

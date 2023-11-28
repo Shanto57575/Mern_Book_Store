@@ -4,8 +4,8 @@ const Collection = () => {
 	return (
 		<div>
 			<div className="lg:flex justify-between px-10">
-				<div className="w-full lg:w-2/3 bg-emerald-400 flex items-center justify-between mr-10">
-					<div className="text-stone-900 font-serif space-y-2 p-10">
+				<div className="w-full lg:w-2/3 bg-[#F04A00] flex items-center justify-between mr-10">
+					<div className="text-gray-100 font-serif space-y-2 p-10">
 						<h1 className="text-xl">SPRING 2024</h1>
 						<h1 className="text-3xl">Popular Books</h1>
 						<p className="text-lg">All Books are flat 20% Off</p>

@@ -18,11 +18,11 @@ const Banner = () => {
 
 	return (
 		<div
-			style={divStyle}
-			className="md:pt-0 md:px-0 pt-28 px-3 md:flex items-center justify-between font-bold font-serif bg-cover bg-center w-full h-[800px] md:h-[650px]"
+			// style={divStyle}
+			className="bg-[#f7eff3] md:pt-0 md:px-0 pt-28 px-3 md:flex items-center justify-between font-bold font-serif bg-cover bg-center w-full h-[800px] md:h-[650px]"
 		>
 			<div className="w-full px-5 md:w-1/2 mx-auto space-y-5 text-center md:text-start">
-				<h1 className="text-2xl md:text-4xl lg:text-6xl font-bold font-serif tracking-wide leading-loose text-gray-700 bg-gradient-to-r from-yellow-900 via-green-900 to-sky-800 inline-block text-transparent bg-clip-text">
+				<h1 className="text-2xl md:text-4xl lg:text-6xl font-thin font-serif tracking-wide leading-loose text-[#715a42]">
 					Swipe into the Magic of Reading with Bookswipe
 				</h1>
 				<p className="text-gray-700 hidden md:block text-justify">
@@ -30,7 +30,7 @@ const Banner = () => {
 					Bookswipe. Dive into a realm of diverse narratives, where every swipe
 					brings you closer to your next captivating read
 				</p>
-				<button className="border px-5 py-3 hover:bg-black hover:text-white duration-300 rounded">
+				<button className="border px-8 py-3 bg-black text-white hover:bg-[#2a4e44] duration-300">
 					See More
 				</button>
 			</div>

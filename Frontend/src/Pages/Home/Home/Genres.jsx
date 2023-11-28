@@ -1,9 +1,5 @@
 const Genres = () => {
 	const genres = [
-		// {
-		// 	name: "Fiction",
-		// 	img: "https://t3.ftcdn.net/jpg/06/62/81/82/240_F_662818278_j4WD1Hg9jecxqkN3YRljrxHAfy7HJX9V.jpg",
-		// },
 		{
 			name: "Fiction",
 			img: "https://t4.ftcdn.net/jpg/05/80/10/33/240_F_580103305_qXQ9FbFtaxepqQe2axaX4YTl689sX3LH.jpg",
@@ -37,7 +33,7 @@ const Genres = () => {
 					<h1 className="text-4xl text-stone-900 font-serif">Genres Books</h1>
 				</div>
 				<div className=""></div>
-				<button className="text-md font-serif border px-8 py-3 bg-[#4eaa90] hover:bg-[#2a4e44] text-white duration-300 rounded">
+				<button className="text-md font-serif border px-8 py-3 font-bold bg-[#4eaa90] hover:bg-[#2a4e44] text-white duration-300 rounded">
 					View All
 				</button>
 			</div>
