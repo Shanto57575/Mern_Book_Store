@@ -3,7 +3,7 @@ import Girl from "../../../assets/aesthetics.png";
 const Collection = () => {
 	return (
 		<div>
-			<div className="lg:flex justify-between px-10">
+			<div className="lg:flex justify-between md:px-10">
 				<div className="w-full lg:w-2/3 bg-[#F04A00] flex items-center justify-between mr-10">
 					<div className="text-gray-100 font-serif space-y-2 p-10">
 						<h1 className="text-xl">SPRING 2024</h1>

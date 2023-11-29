@@ -9,7 +9,7 @@ import pays from "../../assets/pays.png";
 const Footer = () => {
 	return (
 		<>
-			<div className="py-20 px-10 md:flex items-center justify-between gap-8 bg-[#214e44] font-serif text-gray-400 ">
+			<div className="py-20 px-10 lg:flex items-center justify-between gap-8 bg-[#214e44] font-serif text-gray-400 ">
 				<div className="space-y-2 mb-10 md:mb-5">
 					<h3 className="text-white font-bold text-3xl">Customer Services</h3>
 					<h4>Got Question? Call us 24/7</h4>

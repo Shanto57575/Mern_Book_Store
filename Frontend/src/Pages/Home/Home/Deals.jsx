@@ -9,7 +9,6 @@ const Deals = () => {
 				<CountdownTimer />
 				<span className="text-gray-500 font-bold">Hurry up!</span>
 			</div>
-			<div></div>
 		</div>
 	);
 };

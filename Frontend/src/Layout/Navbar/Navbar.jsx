@@ -46,7 +46,9 @@ const Navbar = () => {
 			>
 				<div>
 					<div className="flex items-center justify-between">
-						<img className="w-40" src={book} alt="logo" />
+						<Link to="/">
+							<img className="w-40" src={book} alt="logo" />
+						</Link>
 						<div>
 							<ul className="md:flex space-x-12 hidden">
 								{navItems.map(({ link, path }) => (
